@@ -1,16 +1,27 @@
 # Hi 👋, I'm Issac Jacob | Aviyel
 
-Mad On Web3, Open-Source, Fintech and Macroeconomics
+Passionate about Web3 and Open-Source
 
-Working with Web 3 projects and reading up on Macroeconomics is what gives me the needed serotonin. 
+Reading up on Finance and Macroeconomics gives me my serotonin high.
 
-<https://keralabitco.in/>
+Building communities @AviyelHQ
 
-Twitter - @IssacJacob10
+Writing up on Bitcoin @keralabitco.in
 
-Github - @issacops
+Bridging traditional finance and DeFi @kusidin.bank
 
+Building on Web3 @soldiverdicapital
+
+## Writings
+
+* [AMA with Harshit Surana, CTO & Co-Founder of Chaos Genius](https://aviyel.com/post/3674)
+* <https://keralabitco.in/>
+
+## Social Links
 [Aviyel](https://aviyel.com/@issac)
+
+
+
 
 
 
