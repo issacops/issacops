@@ -1,10 +1,10 @@
-# Hi 👋, I'm Issac Jacob | Aviyel
+# Hi 👋, I'm Issac Jacob | HabitX
 
 Passionate about Web3 and Open-Source
 
 Reading up on Finance and Macroeconomics gives me my serotonin high.
 
-Building communities @AviyelHQ
+Built communities @AviyelHQ
 
 Writing up on Bitcoin @keralabitco.in
 
